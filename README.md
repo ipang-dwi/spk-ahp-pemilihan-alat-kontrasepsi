@@ -15,7 +15,7 @@ Instalasi :
 - Tes jalankan pada browser.
 
 Preview :
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/tN9RN"><a href="//imgur.com/tN9RN">spk-ahp-pemilihan-alat-kontrasepsi</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+http://imgur.com/a/tN9RN
 
 Minimum requirements :
 - PHP 5.x
