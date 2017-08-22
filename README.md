@@ -14,6 +14,9 @@ Instalasi :
   contoh $mysqli = new mysqli('localhost','user-kamu','password-kamu','nama-database-kamu');
 - Tes jalankan pada browser.
 
+Preview :
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/tN9RN"><a href="//imgur.com/tN9RN">spk-ahp-pemilihan-alat-kontrasepsi</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 Minimum requirements :
 - PHP 5.x
 - MySql 5.x atau MariaDB 5.x
